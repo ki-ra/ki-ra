@@ -6,4 +6,3 @@
 <a href="https://github.com/ki-ra"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="ki-ra's github stats" /></a>
 <a href="https://github.com/ki-ra"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=synthwave&hide_border=true" /></a> 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ki-ra"(https://solved.ac/ki-ra)>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thdrlfk93)](https://solved.ac/thdrlfk93)
