@@ -1,2 +1,1 @@
-서울거주
-개발자 도전 1년차
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
