@@ -1,4 +1,4 @@
-[![Solved.ac.thdrlfk93](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{thdrlfk93})
+[![Solved.acPlatinum](http://mazassumnida.wtf/api/generate_badge?boj=thdrlfk93)](https://solved.ac/thdrlfk93)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ki-ra_CODE&fontSize=90)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/ki-ra)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:thdrlfk93@gmail.com)
